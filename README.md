@@ -1,4 +1,4 @@
-Master Student from Germany living in Leiden, graduating in 'Statistics and Data Science' at Leiden University.
+Graduate in 'Statistics and Data Science' at Leiden University.
 I share some of my academic and personal projects here. Many of them are related to Football Data Science.
 
 Recently finalized my Master Thesis project, introducing an improved possession metric in football by adding spatio-temporal context. 
